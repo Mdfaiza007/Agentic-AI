@@ -11,3 +11,7 @@ fastapi
 uvicorn
 tiktoken
 requests
+langchain_huggingface
+transformers
+torch
+sentence-transformers

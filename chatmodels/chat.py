@@ -8,7 +8,7 @@ load_dotenv()  # Load environment variables from .env file
 # from langchain.chat_models import init_chat_model
 from langchain_groq import ChatGroq
 
-from langchain_mistralai import ChatMistralAI
+# from langchain_mistralai import ChatMistralAI
 
 # model = init_chat_model("google_genai:gemini-3.7-flash")
 # model = ChatGoogleGenerativeAI(	model="gemini-3.7-flash")
